@@ -1,0 +1,27 @@
+Create the issue.md
+
+Now build the homepage UI.
+
+Use the reference screenshot provided earlier as visual inspiration.
+
+Implement:
+
+Project Workspace header
+Search projects
+New Project button
+Workspace Insights
+Project cards
+Moon/sun theme toggle
+
+Remove:
+
+All / Private / Public filters
+Settings
+Party/cone icon
+User menu
+
+The homepage must use real SQLite data.
+
+Do not use mocked projects.
+
+Implement responsive layout and empty states.
